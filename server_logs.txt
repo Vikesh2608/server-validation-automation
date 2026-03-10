@@ -1,0 +1,5 @@
+[INFO] Server boot successful
+[INFO] CPU initialized
+[ERROR] CPU error detected during stress test
+[INFO] Memory check passed
+[ERROR] Disk read error on device sda
